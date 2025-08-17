@@ -46,6 +46,6 @@ File spray_log.txt exists, overwrite? (y/n) y
 [!] Found valid credentials: lucas:Password01! - NT_STATUS_DISABLED
 [!] Found valid credentials: noah:Password01! - STATUS_PASSWORD_EXPIRED
 [+] Spraying the password Password123
-[+] Reached maximum attempts, sleeping for: 07:20
+[+] Reached maximum attempts, sleeping for: 15:00
 
 ```
