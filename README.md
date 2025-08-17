@@ -19,7 +19,7 @@ go build
 
 ## Usage
 
-```sh
+```
 ./ADSpray -h
 Usage of ./ADSpray:
   -a, --attempts int       Amount of passwords to try during one spray cycle
