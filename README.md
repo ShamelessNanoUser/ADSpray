@@ -38,7 +38,7 @@ Usage of ./ADSpray:
 ```
 ./ADSpray -d howdoiexitvim.local -t 192.168.1.0 -u users.txt -p passwords.txt -a 3 -s 15 
 Did you check if there is a Fine Grained Password Policy in place? (y/n) y
-ADSpray is now gonna start spraying 2 passwords per 10 minutes, continue? (y/n) y
+ADSpray is now gonna start spraying 3 passwords per 15 minutes, continue? (y/n) y
 File spray_log.txt exists, overwrite? (y/n) y
 [+] Spraying the password Password01
 [+] Spraying the password Password01!
